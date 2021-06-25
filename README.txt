@@ -1,1 +1,1 @@
-speee macOS .vimrc
+My macOS setup and configuration files.
